@@ -1,7 +1,7 @@
 ## Head
 
-- [class101](https://class101.net/me/classes){:target="_blank"}
-- [BAEKJOON](https://www.acmicpc.net/){:target="_blank"}
+- [class101](https://class101.net/me/classes)
+- [BAEKJOON](https://www.acmicpc.net/)
 
 
 ### 2020/11/20 (금) 작업예정
