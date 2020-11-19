@@ -1,7 +1,8 @@
-````
-- class101 : https://class101.net/me/classes
-- BAEKJOON : https://www.acmicpc.net/
-````
+## Head
+
+- [class101](https://class101.net/me/classes)
+- [BAEKJOON](https://www.acmicpc.net/)
+
 
 ### 2020/11/20 (금) 작업예정
 
