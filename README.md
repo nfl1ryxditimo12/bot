@@ -1,5 +1,8 @@
 ## Head
 
+- 2020/11/19 (목) 부터 시작된 파이썬 AI 트레이딩 봇 개발 과정
+
+--- ###참조 사이트 ---
 - [class101](https://class101.net/me/classes)
 - [BAEKJOON](https://www.acmicpc.net/)
 
