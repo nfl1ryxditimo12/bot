@@ -7,8 +7,9 @@
 ```
 
 --- 참조 사이트 ---
-- [class101](https://class101.net/me/classes)
-- [BAEKJOON](https://www.acmicpc.net/)
+- [BLOG]     https://blog.naver.com/singj1963
+- [class101] https://class101.net/me/classes
+- [BAEKJOON] https://www.acmicpc.net/
 
 ---
 
