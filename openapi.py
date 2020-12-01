@@ -6,11 +6,11 @@ import logging.handlers
 import time
 from pandas import DataFrame
 
-is_64bits = sys.maxsize > 2**32
-if is_64bits:
-    print('64bit 환경입니다.')
-else:
-    print('32bit 환경입니다.')
+# is_64bits = sys.maxsize > 2**32
+# if is_64bits:
+#     print('64bit 환경입니다.')
+# else:
+#     print('32bit 환경입니다.')
 
 formatter = logging.Formatter('[%(levelname)s|%(filename)s:%(lineno)s] %(asctime)s > %(message)s')
 logger = logging.getLogger("crumbs")
