@@ -9,7 +9,7 @@
 ```
 
 --- 참조 사이트 ---
-- [BLOG]     https://blog.naver.com/singj1963
+- [BLOG]     https://seongsu.me
 - [class101] https://class101.net/me/classes
 - [BAEKJOON] https://www.acmicpc.net/
 
